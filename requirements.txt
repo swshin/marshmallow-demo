@@ -1,0 +1,5 @@
+dataclasses-json
+flask_cors
+flask-jwt-extended
+flask-marshmallow
+pdfkit
